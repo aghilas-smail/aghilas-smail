@@ -8,6 +8,6 @@
 ### Academic Projects
 Here are some of the academic projects I've worked on:
 
-- [Uber analyst]([https://github.com/aghilas1999/academic-project-1](https://github.com/aghilas1999/Uber_analyse)): Brief description of the project.
+- [Uber analyst]([https://github.com/aghilas1999/Uber_analyse)): Brief description of the project.
 - [Project Title 2](https://github.com/aghilas1999/academic-project-2): Brief description of the project.
 - [Project Title 3](https://github.com/aghilas1999/academic-project-3): Brief description of the project.
