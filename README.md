@@ -15,7 +15,10 @@ Tous les projets académiques que j'ai réalisés au cours de ma carrière unive
   * Analyse et prétraitement des données à l'aide du moteur Spark.
   * Transformation des données et élimination des valeurs aberrantes.
   * Développement d'un tableau de bord Power BI offrant une visualisation attrayante des données d'UberP
-- [Projet Data engineer (Kafka, Airflow, Spark et PostgresSQL) ](https://github.com/aghilas1999/Data-engineer-Porojet):
+- [Développement d&#39;un pipeline de données et d&#39;une application de modèle linguistique](https://github.com/aghilas1999/Data-engineer-Porojet):
+
+  - Construction d'un pipeline de données en intégrant Kafka pour le streaming, Airflow pour l'orchestration, Spark pour la transformation des données, et PostgreSQL pour le stockage en utilisant Docker.
+  - Développement d'une application utilisant un modèle linguistique pour interagir avec la base de données à l'aide de LangChain.
 - [Wrapper-Mediator application](https://github.com/aghilas1999/Wrapper-Mediator) :
 
   * Une application qui traite la production, la consommation et l'émission de gaz en la France.
