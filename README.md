@@ -10,9 +10,14 @@
 Tous les projets académiques que j'ai réalisés au cours de ma carrière universitaire :
 
 - [Uber analyst](https://github.com/aghilas1999/Uber_analyse):
+
   * Conduite d'une étude sur les données publiées par Uber concernant l'année 2016.
   * Analyse et prétraitement des données à l'aide du moteur Spark.
   * Transformation des données et élimination des valeurs aberrantes.
   * Développement d'un tableau de bord Power BI offrant une visualisation attrayante des données d'UberP
-- [Projet Data engineer (Kafka, Airflow, Spark et PostgresSQL) ](https://github.com/aghilas1999/Data-engineer-Porojet): Brief description of the project.
-- [Project Title 3](https://github.com/aghilas1999/academic-project-3): Brief description of the project.
+- [Projet Data engineer (Kafka, Airflow, Spark et PostgresSQL) ](https://github.com/aghilas1999/Data-engineer-Porojet):
+- [Wrapper-Mediator application](https://github.com/aghilas1999/Wrapper-Mediator) :
+
+  * Une application qui traite la production, la consommation et l'émission de gaz en la France.
+  * Transformer des sources de données csv en tables SQL.
+  * Création de vues à l'aide de sous-requêtes sur la base de données.
